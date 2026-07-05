@@ -1,0 +1,23 @@
+# 3dprints
+
+*.txt  text eol=lf
+*.scad text eol=lf
+*.pov  text eol=lf
+*.ps   text eol=lf
+*.cmd  text eol=crlf
+*.3mf  binary
+
+*.json  text eol=lf
+*.md    text eol=lf
+*.mp4    binary
+*.pdf    binary
+*.png    binary
+*.pptx   binary
+*.stl    binary
+
+makefile  text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+* text=auto
+
+# --- end ---

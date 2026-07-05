@@ -1,0 +1,20 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "border": "2",
+            "color_black": "black",
+            "color_blue": "blue",
+            "color_grey": "grey",
+            "color_red": "#400000",
+            "holder": "2",
+            "lineCardDepth": "50",
+            "lineCardHeight": "8",
+            "lineCardTick": "1.5",
+            "lineCardWidth": "40",
+            "setup": "design",
+            "spacing": "0.2"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": ""
+}
