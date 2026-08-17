@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Prepad vody z umyvadla
 // 20260712, Ondrej DURAS (dury) NOKIA
 
@@ -168,4 +169,6 @@ module preview(preview=preview) {
 }
 preview();
 
+=======
+>>>>>>> 5927830edd06b358fe3329ed6174293617445623
 
