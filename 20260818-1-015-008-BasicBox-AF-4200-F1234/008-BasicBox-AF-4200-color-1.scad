@@ -1,5 +1,5 @@
 // Basic Box - boxPool and boxCover
-// 2026-06-22, Ondrej DURAS (dury) Nokia
+// 2026-08-17, Ondrej DURAS (dury) Nokia Public Openware GNU/GPL
 /* [Preview] */
 // parametricka krabicka urcena na prenasanie veci vo vrecku
 // dolezitou vlastnostou su jej zaoblenia po stranach, aby
